@@ -5,6 +5,9 @@ using System.Web;
 
 namespace FirstWebApp.Data.DTO
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class DTO_Employee
     {
         public int IDEmployee { get; set; }
